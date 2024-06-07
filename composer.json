@@ -1,0 +1,17 @@
+{
+    "name": "ronildo/testing",
+    "type": "n",
+    "autoload": {
+        "psr-4": {
+            "Ronildo\\Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronildo Sousa",
+            "email": "sousaronildo400@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
